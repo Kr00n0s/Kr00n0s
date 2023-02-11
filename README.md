@@ -1,16 +1,13 @@
-### Hi there 👋
+-----------------
+### Hi there 👋!
 
-<!--
-**Kr00n0s/Kr00n0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[🐦 Twitter](https://twitter.com/kr00n0s) | ``Iam an ethical hacker, digital researcher and programmer.``
 
-Here are some ideas to get you started:
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/Kr00n0s/Kr00n0s/blob/main/lenin.png">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr00n0s&layout=compact&theme=github_dark&hide=php,javascript,css,tsql,html,scss,makefile,shell,dockerfile)
+
+![vavkamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kr00n0s&show_icons=true&theme=github_dark)
+
+------------------
